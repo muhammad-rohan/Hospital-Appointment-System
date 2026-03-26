@@ -1,4 +1,4 @@
-# Hospital Appointment System
+## Hospital Appointment System
 
 # Student Information
 Name: MD. Rohan Fakir  
