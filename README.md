@@ -1,8 +1,4 @@
-## Hospital Appointment System
-
-# Student Information
-Name: MD. Rohan Fakir  
-ID: 11240321690  
+# Hospital Appointment System
 
 # Project Description
 This project is a simple hospital appointment system built using Java Swing.
